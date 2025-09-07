@@ -3,4 +3,5 @@
 wallpaper=$1
 
 wal -i "$wallpaper" -s
-./move.sh
+
+/home/callum/.wallpaperscript/move.sh

@@ -4,4 +4,4 @@ wallpaper="$(pwd)/$1"
 
 swww img $wallpaper
 
-./activatemove.sh $wallpaper
+/home/callum/.wallpaperscript/activatemove.sh $wallpaper
